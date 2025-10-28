@@ -14,7 +14,7 @@ This repository serves as a centralized collection of personal study guides for 
 *   [License](#license)
 
 ---
-
+<a id="about-this-repository"></a>
 ## ✨ About This Repository
 
 Preparing for certifications can be challenging, and navigating through extensive official documentation can be time-consuming. This repository aims to simplify your study process by providing concise, organized, and community-enhanced notes and summaries for key certification topics.
@@ -22,7 +22,7 @@ Preparing for certifications can be challenging, and navigating through extensiv
 Whether you're starting your journey in AI with Azure Fundamentals, diving deep into Docker, or mastering Python programming with PCEP/PCAP/PCPP, you'll find structured content here to aid your learning.
 
 ---
-
+<a id="available-study-guides"></a>
 ## 📖 Available Study Guides
 
 Click on any of the links below to access the detailed study guide for each certification:
@@ -43,7 +43,7 @@ Click on any of the links below to access the detailed study guide for each cert
     *   *Focus:* Design patterns, concurrent programming, functional programming, and advanced data processing techniques in Python.
 
 ---
-
+<a id="how-to-use"></a>
 ## 🚀 How to Use
 
 1.  **Browse the list above:** Identify the certification you are preparing for.
@@ -55,7 +55,7 @@ Click on any of the links below to access the detailed study guide for each cert
     ```
 
 ---
-
+<a id="contributing"></a>
 ## 🤝 Contributing
 
 Your contributions are highly welcome! This project thrives on community input. If you find any errors, omissions, or have suggestions for improvements, please consider contributing.
@@ -72,7 +72,7 @@ Your contributions are highly welcome! This project thrives on community input. 
 Please ensure your contributions maintain the current formatting and style.
 
 ---
-
+<a id="disclaimer"></a>
 ## ⚠️ Disclaimer
 
 These study guides are based on personal understanding, notes, and publicly available resources. They are **not** official exam materials from the certification providers (Microsoft, Docker, OpenEDG Python Institute, etc.). While efforts are made to ensure accuracy and completeness, these guides should be used as a supplementary resource alongside official documentation, practice exams, and hands-on experience. The creators of this repository are not responsible for any exam failures.
