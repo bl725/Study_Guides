@@ -11,7 +11,6 @@ This repository serves as a centralized collection of personal study guides for 
 *   [How to Use](#how-to-use)
 *   [Contributing](#contributing)
 *   [Disclaimer](#disclaimer)
-*   [License](#license)
 
 ---
 <a id="about-this-repository"></a>
@@ -81,11 +80,7 @@ Always refer to the official exam objectives and documentation from the certific
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 **Happy Studying!** 🚀
 
